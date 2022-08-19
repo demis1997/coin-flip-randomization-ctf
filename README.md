@@ -11,3 +11,4 @@ then create a function to flip the coin and always return it as the correct gues
         victimContract.flip(side);    
 
 You can check your consecutive wins through the main contract and once you hit 10 thene just submit your answer
+<img width="1536" alt="coinflip" src="https://user-images.githubusercontent.com/63403890/185659024-28e20c7d-3913-4612-8e84-e2bfe6b87aca.png">
